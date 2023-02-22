@@ -19,6 +19,8 @@ print('----------------------------------------')
 personName = "Vafa"
 personFamily = "Pour"
 personChild = None # None Means Empty
+personChild1 = ""
 
 print(personChild)
+print(personChild1)
 print(type(personChild))

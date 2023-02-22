@@ -1,6 +1,6 @@
-# sentence = 'Vafa said: "I\'m programmer"'
+sentence = 'Vafa said: "I\'m programmer"'
 # sentence = 'Vafa said:\n"I\'m programmer"'
-sentence = 'Vafa said:\t"I\'m programmer"'
+# sentence = 'Vafa said:\t"I\'m programmer"'
 
 print(sentence)
 
