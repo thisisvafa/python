@@ -10,3 +10,7 @@ print(myWeight)
 
 myWeight = str(myWeight)
 print(myWeight)
+
+
+print('-------------------------------------')
+
